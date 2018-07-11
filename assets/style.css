@@ -1,0 +1,11 @@
+li {
+  position: absolute;
+  list-style: none
+}
+
+body {
+  background-image: url('img/fondo.jpeg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
